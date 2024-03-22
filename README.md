@@ -1,4 +1,4 @@
-#Spotify Hit Song Predictor
+# Spotify Hit Song Predictor
 
 ## Project Overview
 This project aims to develop a machine learning model capable of predicting whether a song will enter top 10 after entering the top 200 songs on Spotify based on its song features alone. These song featues include danceability, energy, key, loudness, and more.
